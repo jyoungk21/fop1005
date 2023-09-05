@@ -1,4 +1,3 @@
-from accounts import BankAccount
 
 def balances():
     print('\n#### Balances ####\n')

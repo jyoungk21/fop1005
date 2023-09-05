@@ -5,7 +5,7 @@ def undefinedFun():
 
 cat = dog
 
-if cat
+if cat:
     print(bird)
 
 print("The never ending string)   
