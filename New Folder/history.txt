@@ -1,0 +1,1000 @@
+   90  host 192.168.226
+   91  nslookup example.com
+   92  pwd
+   93  sudo vim /etc/vsftpd.conf
+   94  sudo nano /etc/vsftpd.conf
+   95  sudo systemctl restart vsftpd.service
+   96  ifconfig
+   97  pwd
+   98  cd ..
+   99  ls
+  100  cd user-kym/
+  101  ls
+  102  sudo apt install slapd ldap-tils
+  103  sudo apt install slapd ldap-utils
+  104  ping example.com
+  105  dig example.com
+  106  ping 192.168.226.130
+  107  vim filetext.txt
+  108  ls
+  109  sudo apt-get update
+  110  cd Documents/
+  111  clear
+  112  ls
+  113  cd CS2000/
+  114  unzip Test.zip 
+  115  cd Test/
+  116  clear
+  117  unzip Bash\ Coding\ Assessment\ 3.zip 
+  118  chmod +x Q1.sh 
+  119  bash Q1.sh 
+  120  man grep
+  121  man sort
+  122  chmod +x Q2.sh 
+  123  bash Q2.sh 
+  124  chmod +x Q2.sh 
+  125  bash Q2.sh 
+  126  clear
+  127  bash Q2.sh 
+  128  clear
+  129  bash Q2.sh 
+  130  clear
+  131  bash Q2.sh 
+  132  clear
+  133  bash Q2.sh 
+  134  clear
+  135  bash Q2.sh 
+  136  clear
+  137  bash Q2.sh 
+  138  clear
+  139  bash Q2.sh 
+  140  clear
+  141  bash Q2.sh 
+  142  clear
+  143  bash Q2.sh 
+  144  clear
+  145  bash Q2.sh 
+  146  clear
+  147  bash Q2.sh 
+  148  wc -l failed.csv
+  149  clear
+  150  bash Q2.sh 
+  151  clear
+  152  bash Q2.sh 
+  153  clear
+  154  bash Q2.sh 
+  155  clear
+  156  bash Q2.sh 
+  157  clear
+  158  bash Q2.sh 
+  159  clear
+  160  bash Q2.sh 
+  161  clear
+  162  bash Q2.sh 
+  163  clear
+  164  bash Q2.sh 
+  165  clear
+  166  bash Q2.sh 
+  167  clear
+  168  bash Q2.sh 
+  169  clear
+  170  bash Q2.sh 
+  171  clear
+  172  bash Q2.sh 
+  173  clear
+  174  bash Q2.sh 
+  175  clear
+  176  bash Q2.sh 
+  177  clear
+  178  bash Q2.sh 
+  179  clear
+  180  bash Q2.sh 
+  181  clear
+  182  bash Q2.sh 
+  183  clear
+  184  bash Q2.sh 
+  185  clear
+  186  bash Q2.sh 
+  187  clear
+  188  bash Q2.sh 
+  189  bash Q2.sh 
+  190  bash Q3.sh 
+  191  bash Q2.sh 
+  192  clear
+  193  bash Q3.sh 
+  194  man grep
+  195  bash Q3.sh 
+  196  man grep
+  197  clear
+  198  bash Q3.sh 
+  199  vim README.txt
+  200  zip Husnain_Afzal_90026237.zip *
+  201  zip Bash_Assessment_HusnainAfzal90026237.zip *
+  202  present working directory
+  203  clear
+  204  dwp
+  205  pwd
+  206  clear
+  207  pwd
+  208  ls
+  209  ls -a
+  210  ls-a
+  211  ls -a
+  212  ls -l
+  213  ls -la
+  214  ll
+  215  pwd
+  216  clear
+  217  history
+  218  clear
+  219  mkdir
+  220  mkdir fop
+  221  ls
+  222  mkdir new folder
+  223  cd fop
+  224  pwd
+  225  mkdir prac01
+  226  mkdir prac02 prac03
+  227  mkdir prac04 prac05 prac06 prac07 prac08 prac09
+  228  rmdir prac09
+  229  cd prac01
+  230  clear
+  231  pwd
+  232  mkdir prac09 prac10 prac11
+  233  ls
+  234  touch test01
+  235  ls
+  236  touch test03 test02
+  237  ls
+  238  rm test01 test02 test03
+  239  ls
+  240  touch test01 test02 test03 test04
+  241  ls
+  242  cp test01 khurram
+  243  cp test01 new folder
+  244  cp test01 khurram
+  245  mv khurram hameed
+  246  clear
+  247  rm *
+  248  ls
+  249  vim
+  250  cd
+  251  cd new folder
+  252  cd hameed
+  253  cd fob
+  254  clear
+  255  cd documents
+  256  cd document
+  257  clear
+  258  ls
+  259  ll
+  260  vim readme
+  261  fob
+  262  ls
+  263  cd fob
+  264  vim readme
+  265  cdir fob
+  266  mkdir fob2
+  267  ll
+  268  clear
+  269  pwd
+  270  ls
+  271  ls -a
+  272  history
+  273  clear
+  274  pwd
+  275  fob
+  276  mv fob
+  277  cd fob
+  278  vim hello.py
+  279  vim hello.py
+  280  vim readme
+  281  vim hello.py
+  282  vim readme
+  283  pwd
+  284  vim numbers1.py
+  285  pyhon3 numbers1.py
+  286  python3 numbers1.py
+  287  numbers1.py
+  288  python3 numbers1.py
+  289  numbers1.py
+  290  vim numbers1.py
+  291  vim numbers3.py
+  292  vim number3.py
+  293  ll
+  294  clear
+  295  number3.py
+  296  vim number3.py
+  297  python3 numbers3.py
+  298  clear
+  299  pwd
+  300  vim numbers4.py
+  301  python3 numbers4.py
+  302  python3 numbers3.py
+  303  vim numbers3.py
+  304  python3 numbers4.py
+  305  python numbers1.py
+  306  python3 numbers1.py
+  307  clear
+  308  python3 readme
+  309  vim readme
+  310  python3 numbers1.py
+  311  python3 numbers2.py
+  312  python3 numbers3.py
+  313  vim numbers3.py
+  314  python3 hello.py
+  315  vim numbers1.py
+  316  ls
+  317  unzip class_code.aip
+  318  unzip class_codes.zip
+  319  unzip Class_Codes.zip
+  320  clear
+  321  mkdir test01.py
+  322  ls
+  323  clear
+  324  ls
+  325  ls -l
+  326  pwd
+  327  mkdir test
+  328  ls
+  329  clear
+  330  pwd
+  331  vim number3.py
+  332  python3 numbers1.py
+  333  vim numbers1.py
+  334  python3 numbers1.py
+  335  vim numbers1.py
+  336  cp numbers1.py numbers2.py
+  337  python3 numbers2.py
+  338  vim numbers2.py
+  339  vim numbers3.py
+  340  vim numbers4.py
+  341  clear
+  342  vim readme
+  343  python3 readme
+  344  readme
+  345  clear
+  346  ls
+  347  vim numbers1.py
+  348  python3 numbers1.py
+  349  vim numbers2.py
+  350  vim numbers3.py
+  351  vim numbers4.py
+  352  zip prac01
+  353  zip 90023700 *
+  354  ls
+  355  cd fob
+  356  cd fop
+  357  ls
+  358  cd ..
+  359  mkdir practice
+  360  cd practice
+  361  vim practice
+  362  python3 practice
+  363  vim practice
+  364  python3 practice
+  365  python3 practice4745456
+  366  python3 practice4745456234
+  367  python3 practice
+  368  clear
+  369  python3 practice4745456234
+  370  vim practice
+  371  python3 practice
+  372  vim practice
+  373  python3 practice
+  374  vim practice
+  375  python3 practice
+  376  vim practice
+  377  python3 practice
+  378  :wq
+  379  vim practice
+  380  vim delete
+  381  cd practice
+  382  vim bucket1.py
+  383  vim bucket2.py
+  384  python3 bucket2.py
+  385  vim bucket2.py
+  386  python3 bucket2.py
+  387  vim bucket1.py
+  388  ls
+  389  cd practice
+  390  ls
+  391  vim bucket1.py
+  392  clear
+  393  rm bucket2.py
+  394  ls
+  395  vim bucket2.py
+  396  cd ..
+  397  ls
+  398  cd fob
+  399  cd fop
+  400  ls
+  401  cd prac02
+  402  clear
+  403  ls
+  404  vim bucket2.py
+  405  python3 bucket2.py
+  406  cd practice
+  407  vim practice
+  408  python3 practice
+  409  vim practice
+  410  python3 practice
+  411  vim practice
+  412  python3 practice
+  413  vim practice
+  414  python3 practice
+  415  vim practice
+  416  the weather is bad
+  417  python3 practice
+  418  vim practice
+  419  python3 practice
+  420  vim practice
+  421  python3 practice
+  422  vim practice
+  423  python3 practice
+  424  vim practice
+  425  python3 practice
+  426  vim practice
+  427  python3 practice
+  428  vim practice
+  429  python3 practice
+  430  vim practice
+  431  python3 practice
+  432  vim practice
+  433  python3 practice
+  434  vim practice
+  435  python3 practice
+  436  vim practice
+  437  python3 practice
+  438  vim practice
+  439  python3 practice
+  440  vim practice
+  441  python3 practice
+  442  vim practice
+  443  python3 practice
+  444  vim practice
+  445  python3 practice
+  446  clear
+  447  ls
+  448  vim practice2
+  449  vim Tossing coins
+  450  python3 Tossing coimns
+  451  vim Tossing coins
+  452  python3 Tossing coimns
+  453  vim Tossing coins
+  454  python3 Tossing coimns
+  455  vim Tossing coins
+  456  clear
+  457  vic bucket1.py
+  458  vim bucket1.py
+  459  ls
+  460  python3 bucket1.py
+  461  python3 bucket1
+  462  clear
+  463  ls
+  464  python3 bucket1.py
+  465  clear
+  466  cd ..
+  467  cd fob
+  468  cd fop
+  469  ls
+  470  cd prac02
+  471  clear
+  472  python3 bucket2.py
+  473  vim bucket2.py
+  474  python3 bucket2.py
+  475  vim bucket2.py
+  476  python3 bucket2.py
+  477  vim bucket2.py
+  478  clear
+  479  python3 bucket2.py
+  480  vim bucket2.py
+  481  python3 bucket2.py
+  482  vim bucket2.py
+  483  python3 bucket2.py
+  484  vim bucket2.py
+  485  python3 bucket2.py
+  486  vim bucket2.py
+  487  python3 bucket2.py
+  488  vim bucket2.py
+  489  python3 bucket2.py
+  490  vim bucket2.py
+  491  python3 bucket2.py
+  492  vim bucket2.py
+  493  python3 bucket2.py
+  494  vim bucket2.py
+  495  python3 bucket2.py
+  496  vim bucket2.py
+  497  python3 bucket2.py
+  498  vim bucket2.py
+  499  python3 bucket2.py
+  500  vim bucket2.py
+  501  vim strings1.py
+  502  python3 strings1.py
+  503  vim strings1.py
+  504  python3 strings1.py
+  505  ls
+  506  vim assorted.py
+  507  clear
+  508  python3 assorted creams
+  509  python3 assorted.py
+  510  ls
+  511  python3 assorted.py
+  512  vim assorted.py
+  513  ls
+  514  python3 assorted.py
+  515  vim assorted.py
+  516  clear
+  517  python3 assorted.py
+  518  y
+  519  yy
+  520  python3 assorted.py
+  521  N
+  522  python3 assorted.py
+  523  cd fop
+  524  ls
+  525  cd prac02
+  526  ls
+  527  vim assorted.py
+  528  python3 assorted.py
+  529  vim assorted.py
+  530  python3 assorted.py
+  531  vim assorted.py
+  532  python3 assorted.py
+  533  vim assorted.py
+  534  python3 assorted.py
+  535  vim assorted.py
+  536  python3 assorted.py
+  537  y
+  538  clear
+  539  ls
+  540  vim tossing
+  541  python3 tossing.py
+  542  vim tossing.py
+  543  python3 tossing.py
+  544  vim tossing.py
+  545  python3 tossing.py
+  546  vim tossing.py
+  547  python3 tossing.py
+  548  vim tossing.py
+  549  python3 tossing.py
+  550  vim tossing.py
+  551  clear
+  552  zip .py *
+  553  cd fop
+  554  cd Prac04
+  555  cd prac04
+  556  ls
+  557  vim zeros.py
+  558  python3 zeros.py
+  559  vim zeros.py
+  560  python3 zeros.py
+  561  vim zeros.py
+  562  python3 zeros.py
+  563  vim zeros.py
+  564  python3 zeros.py
+  565  vim zeros.py
+  566  python3 zeros.py
+  567  vim zeros.py
+  568  python3 zeros.py
+  569  vim zeros.py
+  570  vim ndimage.py
+  571  python3 ndimage.py
+  572  vim ndimage.py
+  573  python3 ndimage.py
+  574  vim ndimage.py
+  575  python3 ndimage.py
+  576  vim ndimage.py
+  577  python3 ndimage.py
+  578  vim ndimage.py
+  579  python3 ndimage.py
+  580  vim ndimage.py
+  581  python3 ndimage.py
+  582  vim ndimage.py
+  583  python3 ndimage.py
+  584  vim ndimage.py
+  585  python3 ndimage.py
+  586  vim ndimage.py
+  587  python3 ndimage.py
+  588  vim ndimage.py
+  589  python3 ndimage.py
+  590  vim ndimage.py
+  591  python3 ndimage.py
+  592  vim ndimage.py
+  593  python3 ndimage.py
+  594  vim ndimage.py
+  595  python3 ndimage.py
+  596  clear
+  597  vim ndimage.py
+  598  python3 ndimage.py
+  599  vim ndimage.py
+  600  python3 ndimage.py
+  601  vim ndimage.py
+  602  python3 ndimage.py
+  603  vim ndimage.py
+  604  python3 ndimage.py
+  605  vim ndimage.py
+  606  python3 ndimage.py
+  607  vim ndimage.py
+  608  vim def.py
+  609  python3 def.py
+  610  m def.py
+  611  vim def.py
+  612  m def.py
+  613  python3 def.py
+  614  m def.py
+  615  vim def.py
+  616  python3 def.py
+  617  vim def.py
+  618  python3 def.py
+  619  vim def.py
+  620  python3 def.py
+  621  vim def.py
+  622  python3 def.py
+  623  vim def.py
+  624  python3 def.py
+  625  vim def.py
+  626  python3 def.py
+  627  vim def.py
+  628  python3 def.py
+  629  2
+  630  vim def.py
+  631  python3 def.py
+  632  vim def.py
+  633  python3 def.py
+  634  vim def.py
+  635  python3 def.py
+  636  clear
+  637  vim conversions.py
+  638  cd prac04
+  639  ls
+  640  zip 90023700 *
+  641  cd fop
+  642  cd Prac05
+  643  cd prac05
+  644  ls
+  645  cd ..
+  646  ls
+  647  cd ..
+  648  ls
+  649  cd ..
+  650  ls
+  651  python3 weather.py
+  652  ls
+  653  clear
+  654  python3 marchweather.csv
+  655  ls
+  656  python3 weather.py
+  657  vim example.py
+  658  python3 example.py
+  659  clear
+  660  ls
+  661  vim marchweather.csv 
+  662  python3 weather2.py
+  663  clear
+  664  mv IDCJDW6111.202206.csv Dataset.csv
+  665  ls
+  666  python3 weather2.py
+  667  mv IDCJDW6111.202206(1).csv Dataset.csv
+  668  ls
+  669  vim IDCJDW6111.202206.csv 
+  670  mv IDCJDW6111.202206.csv Dataset.csv
+  671  ls
+  672  vim Dataset.csv 
+  673  python3 weather2.py
+  674  vim Dataset.csv 
+  675  clear
+  676  python3 weather2.py
+  677  clear
+  678  python3 heat.py
+  679  python3 heatsource.py
+  680  ls
+  681  python3 heatsource.py
+  682  vim heatsource.py
+  683  python3 heatsource.py
+  684  vim heatsource.py
+  685  python3 heatsource.py
+  686  vim heatsource.py
+  687  python3 heatsource.py
+  688  vim heatsource.py
+  689  python3 heatsource.py
+  690  vim heatsource.py
+  691  vim heatsource.py
+  692  python3 heatsource.py
+  693  python3 listcomp.py
+  694  vim weather.py
+  695  clear
+  696  vim weather2.py
+  697  clear
+  698  ls
+  699  clear
+  700  vim heat.py
+  701  ls
+  702  vim heat2.py
+  703  python3 heat2.py
+  704  ls
+  705  rm heat.py
+  706  cp heat2.py heat.py
+  707  ls
+  708  rm heat2.py
+  709  vim heat2.py
+  710  vim heat.py
+  711  python3 heat.py
+  712  vim heat.py
+  713  python3 heat.py
+  714  vim heat.py
+  715  python3 heat.py
+  716  vim heat.py
+  717  python3 heat.py
+  718  python3 heat.py
+  719  vim heat.py
+  720  cp heat.py heatsource.py
+  721  vim heatsource.py
+  722  vim heatsource.scv
+  723  vim heatsource.py
+  724  ls
+  725  vim heatsorce.scv
+  726  vim heatsource.scv
+  727  ls
+  728  vim heatsrs.csv
+  729  rm heatsource.scv
+  730  ls
+  731  clear
+  732  ls
+  733  python3 heatsource.py
+  734  ls
+  735  vim listcomp.py
+  736  python3 listcomp.py
+  737  vim listcomp.py
+  738  python3 listcomp.py
+  739  vim listcomp.py
+  740  python3 listcomp.py
+  741  vim listcomp.py
+  742  python3 listcomp.py
+  743  vim listcomp.py
+  744  python3 listcomp.py
+  745  vim listcomp.py
+  746  python3 listcomp.py
+  747  vim listcomp.py
+  748  zip *
+  749  zip w5 *
+  750  vim Practest2
+  751  vim PracTest2.py
+  752  python3 PracTest2.py
+  753  vim rainfall2020.csv
+  754  python3 PracTest2.py
+  755  clear
+  756  python3 PracTest2.py
+  757  vim PracTest2
+  758  vim PracTest2.py
+  759  vim PracTest2
+  760  vim PracTest2.py
+  761  ls
+  762  rm PracTest02.py
+  763  ls
+  764  clear
+  765  vim animals.py
+  766  vim testanimals.py
+  767  python3 testanimals.py
+  768  vim testanimals.py
+  769  python3 testanimals.py
+  770  vim testanimals.py
+  771  vim animals.py
+  772  python3 testanimals.py
+  773  vim animals.py
+  774  vim testanimals.py
+  775  python3 testanimals.py
+  776  vim testanimals.py
+  777  python3 testanimals.py
+  778  vim testanimals.py
+  779  python3 testanimals.py
+  780  vim testanimals.py
+  781  clear
+  782  python3 testanimals.py
+  783  vim testanimals.py
+  784  python3 testanimals.py
+  785  vim animals.py
+  786  python3 testanimals.py
+  787  vim testanimals.py
+  788  python3 testanimals.py
+  789  vim testanimals.py
+  790  python3 testanimals.py
+  791  vim testanimals.py
+  792  python3 testanimals.py
+  793  clear
+  794  vim testanimals.py
+  795  vim testanimals2.py
+  796  python3 testanimals2.py
+  797  vim testanimals2.py
+  798  vim animals.py
+  799  vim testanimals2.py
+  800  ls
+  801  vim animals.py
+  802  vim testanimals2.py
+  803  clear
+  804  ls
+  805  vim testanimals.py
+  806  vim testanimals2.py
+  807  python3 testanimals2.py
+  808  vim testanimals2.py
+  809  python3 testanimals2.py
+  810  vim testanimals2.py
+  811  vim nimals.py
+  812  vim animals.py
+  813  clear
+  814  vim accounts.py
+  815  python3 PracTest02.py
+  816  python3 PracTest02.py
+  817  vim PracTest02.py
+  818  vim testaccounts.py
+  819  d
+  820  vim animals.csv
+  821  python3 testanimal2.py
+  822  python3 testanimal2.py
+  823  clear
+  824  python3 testanimals2.py
+  825  python3 PracTest2.py
+  826  python3 testanimals2.py
+  827  vim animals.py
+  828  clear
+  829  ls
+  830  vim testanimals.py
+  831  vim animals.csv
+  832  ls
+  833  vim animals.csv
+  834  python3 testanimals2.py
+  835  vim testanimals2.py
+  836  vim animals.py
+  837  vim testanimals.py
+  838  python3 testanimals.py
+  839  vim testanimals.py
+  840  python3 testanimals2.py
+  841  clear
+  842  vim accounts.py 
+  843  python3 testaccounts.py 
+  844  vim accounts.py
+  845  python3 testaccounts.py 
+  846  vim accounts.py
+  847  python3 testaccounts.py 
+  848  clear
+  849  python3 testaccounts.py 
+  850  vim accounts.py
+  851  ls
+  852  python3 testaccounts.py
+  853  clear
+  854  python3 testaccounts.py
+  855  wq
+  856  zip w62 *
+  857  ls
+  858  vim terminals2.py
+  859  vim testaccounts.py
+  860  zip w6 *
+  861  vim testaccounts.py
+  862  ls
+  863  vim accounts.py
+  864  python3 testaccounts.py
+  865  vim accounts.py
+  866  python3 testaccounts.py
+  867  vim accounts.py
+  868  python3 testaccounts.py
+  869  vim accounts.py
+  870  clear
+  871  ls
+  872  vim accounts.py
+  873  vim testaccounts.py
+  874  vim Assessment01.py
+  875  vim animals.py
+  876  vim testpeople.py
+  877  vim people.py
+  878  python3 testpeople.py
+  879  clear
+  880  python3 testpeople.py
+  881  clear
+  882  vim testshelter.py
+  883  python3 testshelter.py
+  884  clear
+  885  vim testshelter.py
+  886  python3 testshelter.py
+  887  clear
+  888  vim people.csv
+  889  vim reimp.py
+  890  python3 reimp.py
+  891  vim reimp.py
+  892  python3 reimp.py
+  893  vim reimp.py
+  894  clear
+  895  ls
+  896  python3 people.py
+  897  vim people.py
+  898  python3 reimp.py
+  899  vim reimp.py
+  900  python3 reimp.py
+  901  vim reimp.py
+  902  python3 reimp.py
+  903  vim reimp.py
+  904  python3 reimp.py
+  905  vim reimp.py
+  906  python3 reimp.py
+  907  clear
+  908  vim testanimals.py
+  909  vim testanimal.py
+  910  ls
+  911  rm testanimal.py
+  912  vim testshelter.py
+  913  ls
+  914  python3 testcode.py
+  915  vim Testcode.py
+  916  clear
+  917  python3 Car.py
+  918  python3 Testcode.py
+  919  vim Fop_Assignment1_90023700.py
+  920  ls
+  921  python3 dosagebase.py
+  922  python3 dosagebase.py 100 250
+  923  python3 dosagebase.py 1000 2500
+  924  python3 dosagebase.py 15 500000
+  925  python3 dosagebase.py 15 100000
+  926  python3 dosagebase.py 8 100000
+  927  python3 dosagebase.py 5 100000
+  928  python3 dosagebase.py 7 100000
+  929  python3 dosagebase.py 10 100000
+  930  python3 dosagebase.py 16 100000
+  931  python3 dosagebase.py 4 100000
+  932  python3 dosagebase.py 8 100000
+  933  python3 dosagebase.py 8 100000 2
+  934  python3 dosagebase.py 8 
+  935  python3 dosagebase.py 8 10000
+  936  python3 dosagebase.py 8 100000
+  937  python3 dosagebase.py 4 100000
+  938  ls
+  939  python3 dosagebase.py 16 100000
+  940  python3 dosagebase.py 8 100000
+  941  python3 dosagebase.py 10 100000
+  942  vim dosage_sweep.sh
+  943  clear
+  944  ls
+  945  python3 dosage_sweep.sh
+  946  sh dosage_sweep.sh 4 12 4 50 300 50
+  947  sh dosage_sweep.sh 4
+  948  sh dosage_sweep.sh 4 12 4 50 300 50
+  949  sh dosage_sweep.sh 4 12 4 50 1000 50
+  950  ls
+  951  vim dosagebase.py
+  952  vim dosage_sweep.sh
+  953  sh dosage_sweep.sh 4 12 4 50 300 50
+  954  zip 90023700*
+  955  zip 90023700 *
+  956  cp ../Prac01/readme .
+  957  vim readme 
+  958  jupyter notebook
+  959  pwd
+  960  ls
+  961  vim pops.py
+  962  python3 pops.py
+  963  vim pops.py
+  964  python3 pops.py
+  965  vim pops.py
+  966  python3 pops.py
+  967  vim pops.py
+  968  python3 pops.py
+  969  vim pops.py
+  970  python3 pops.py
+  971  jupyter notebook
+  972  pwd
+  973  cp fairy.txt rumple.txt
+  974  vim rumple.txt 
+  975  vim readme 
+  976  vim wordcount.py
+  977  python3 wordcount.py
+  978  vim wordcount.py
+  979  python3 wordcount.py
+  980  jupyter notebook
+  981  vim readme 
+  982  zip 90025421_Prac09 *
+  983  vim -p *
+  984  python3 Dice_Roll_dictionary.py 
+  985  zip w8 *
+  986  python3 heat.py 15 9 N 7 heatsrc.csv
+  987  sh Sweep.sh 5 10 2 10
+  988  python3 heat.py 15 7 N 4 heatsrc.csv
+  989  cp heat.py heat2.py
+  990  vim heat2.py
+  991  python3 heat2.py 15 7 N 4 heatsrc.csv
+  992  vim Sweep.sh 
+  993  sh Sweep.sh 5 10 2 10
+  994  vim Sweep.sh 
+  995  sh Sweep.sh 5 10 5 2
+  996  vim Sweep.sh 
+  997  sh Sweep.sh 5 10 5 2
+  998  python3 heat2.py 15 7 N 4 heatsrc.csv
+  999  vim heat2.py
+ 1000  python3 heat2.py 15 7 N 4 heatsrc.csv
+ 1001  vim heat2.py
+ 1002  python3 heat2.py 15 7 Y 4 heatsrc.csv
+ 1003  vim heat2.py
+ 1004  python3 heat2.py 15 7 Y 2 heatsrc.csv
+ 1005  rm *.png
+ 1006  python3 heat2.py 15 7 Y 2 heatsrc.csv
+ 1007  vim heat2.py
+ 1008  sh Sweep.sh 5 10 2 10
+ 1009  vim Sweep.sh 
+ 1010  sh Sweep.sh 5 10 2 10
+ 1011  vim Sweep.sh 
+ 1012  sh Sweep.sh 5 10 2 10 heatsrc.csv
+ 1013  vim heat2.py
+ 1014  python3 heat2.py 15 7 Y 3 heatsrc.csv
+ 1015  python3 heat2.py 15 3 Y 3 heatsrc.csv
+ 1016  vim heat2.py
+ 1017  jupyter notebook
+ 1018  cp ../Prac09/README .
+ 1019  cp ../Prac09/readme .
+ 1020  cp ../Prac09?/readme .
+ 1021  vim readme
+ 1022  ls
+ 1023  zip 90025421 *
+ 1024  python3 heat.py 10 1 Y 10 "heatsrc.csv"
+ 1025  sh Sweep.sh 10 10 1 10
+ 1026  clear
+ 1027  python3 heat.py 10 1 N 10 "heatsrc.csv"
+ 1028  clear
+ 1029  sh Sweep.sh 8 10 1 3
+ 1030  python3 heat.py 10 1 N 10 "heatsrc.csv"
+ 1031  python3 heat.py 10 1 Y 10 "heatsrc.csv"
+ 1032  python3 heat.py 10 5 Y 10 "heatsrc.csv"
+ 1033  python3 heat.py 10 5 N 10 "heatsrc.csv"
+ 1034  pip install matplotlib
+ 1035  sudo apt install pyflakes
+ 1036  git
+ 1037  pwd
+ 1038  git config --global.name "Vy"
+ 1039  git config --global.email "90025421@study.curtincollege.edu.au"
+ 1040  git init
+ 1041  ls -a
+ 1042  git status
+ 1043  ls -a
+ 1044  git add accounts.py dodgy.py testAccounts.py 
+ 1045  git status
+ 1046  git commit -m "Day 1 backup"
+ 1047  git status
+ 1048  ../Prac10/Readme .
+ 1049  ../Prac10/Readme/ .
+ 1050  vim accounts.py 
+ 1051  git status
+ 1052  git add accounts.py 
+ 1053  git status
+ 1054  git restore --staged accounts.py
+ 1055  git commit -m "Day 2 backup"
+ 1056  git config --global user.name "Vy"
+ 1057  git config --global user.email "90025421@study.curtincollege.edu.au"
+ 1058  git commit -m "Day 2 backup"
+ 1059  ls
+ 1060  pyflakes accounts.py 
+ 1061  pyflakes dodgy.py 
+ 1062  vim dodgy.py 
+ 1063  pyflakes testAccounts.py 
+ 1064  vim testAccounts.py 
+ 1065  git status
+ 1066  git add dodgy.py testAccounts.py 
+ 1067  git status
+ 1068  git commit -m "Pyflakes checked"
+ 1069  sudo apt install pylint
+ 1070  pylint accounts.py 
+ 1071  vim accounts.py 
+ 1072  pylint accounts.py 
+ 1073  vim accounts.py 
+ 1074  pylint accounts.py 
+ 1075  vim accounts.py 
+ 1076  pylint accounts.py 
+ 1077  vim accounts.py 
+ 1078  pylint accounts.py 
+ 1079  sudo apt install pep8
+ 1080  pep8 accounts.py 
+ 1081  vim accounts.py 
+ 1082  pep8 accounts.py 
+ 1083  pep8 dodgy.py 
+ 1084  vim accounts.py 
+ 1085  pep8 accounts.py 
+ 1086  pep8 dodgy.py 
+ 1087  git log
+ 1088  history
+ 1089  history > history.txt

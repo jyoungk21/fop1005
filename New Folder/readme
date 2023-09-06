@@ -1,0 +1,27 @@
+#
+# Synopsis
+# The prac11 demo in class
+#
+# Contents
+# Readme: The menual for the project
+# 
+# accounts.py
+# dodgy.py
+# history.txt - history command line
+# testAccounts.py
+#
+# Dependecies
+# package pep8
+# package pylint
+# package pyflakes
+# package git
+#
+# Author
+# Ngoc Khanh Vy Doan
+#
+# Version
+#
+# V1: 5/9/2023
+#
+# Curtin College
+3
