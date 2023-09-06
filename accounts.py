@@ -12,6 +12,5 @@ class BankAccount (object):
         self.balance = self.balance + amount
 
     def add_interest(self):
-        #just a command
         self.balance += self.balance * self.interest_rate
 
